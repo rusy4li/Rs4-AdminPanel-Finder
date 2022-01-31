@@ -8,16 +8,7 @@
 -> .Net Framework 4.0 kurulu olması lazım
 |https://www.gezginler.net/indir/.net-framework-4.html
 
--> Şuanda eğer deneme amaçlı kullanmayacak iseniz Console uygulamasını kullanın!
-
 -> 'https://' veya '/' kullanmanız gerekmiyor! 
-
-
-# Rs4 AdminPanel Finder Önizleme:
-![adminform](https://user-images.githubusercontent.com/90040826/151723339-d9f13b9b-e1ff-4c8e-bc07-9dc59be32d96.png)
-
-
-
 
 # Rs4 AdminPanel Finder(Console) Önizleme:
 ![adminconsole](https://user-images.githubusercontent.com/90040826/151723344-ea5782f3-4703-47f1-a6a1-00ed1046fea2.png)
