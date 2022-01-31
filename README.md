@@ -5,6 +5,9 @@
 # Not:
 -> Arayüzde hala ufak optimizasyon sıkıntıları var! ama yinede bir göz atarsanız sevinirim.
 
+-> .Net Framework 4.0 kurulu olması lazım
+|https://www.gezginler.net/indir/.net-framework-4.html
+
 -> Şuanda eğer deneme amaçlı kullanmayacak iseniz Console uygulamasını kullanın!
 
 -> 'https://' veya '/' kullanmanız gerekmiyor! 
