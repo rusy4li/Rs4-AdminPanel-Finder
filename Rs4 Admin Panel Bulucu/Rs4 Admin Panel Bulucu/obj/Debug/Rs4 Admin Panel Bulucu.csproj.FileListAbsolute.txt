@@ -1,0 +1,22 @@
+C:\Users\burak\source\repos\Rs4 Admin Panel Bulucu\Rs4 Admin Panel Bulucu\obj\Debug\Rs4 Admin Panel Bulucu.csproj.AssemblyReference.cache
+C:\Users\burak\source\repos\Rs4 Admin Panel Bulucu\Rs4 Admin Panel Bulucu\obj\Debug\Rs4 Admin Panel Bulucu.csproj.SuggestedBindingRedirects.cache
+C:\Users\burak\source\repos\Rs4 Admin Panel Bulucu\Rs4 Admin Panel Bulucu\obj\Debug\Rs4_Admin_Panel_Bulucu.Form.resources
+C:\Users\burak\source\repos\Rs4 Admin Panel Bulucu\Rs4 Admin Panel Bulucu\obj\Debug\Rs4_Admin_Panel_Bulucu.Properties.Resources.resources
+C:\Users\burak\source\repos\Rs4 Admin Panel Bulucu\Rs4 Admin Panel Bulucu\obj\Debug\Rs4 Admin Panel Bulucu.csproj.GenerateResource.cache
+C:\Users\burak\source\repos\Rs4 Admin Panel Bulucu\Rs4 Admin Panel Bulucu\obj\Debug\Rs4 Admin Panel Bulucu.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\Rs4 Admin Panel Bulucu\Rs4 Admin Panel Bulucu\bin\Debug\Rs4 Admin Panel Bulucu.exe.config
+C:\Users\burak\source\repos\Rs4 Admin Panel Bulucu\Rs4 Admin Panel Bulucu\bin\Debug\Rs4 Admin Panel Bulucu.exe
+C:\Users\burak\source\repos\Rs4 Admin Panel Bulucu\Rs4 Admin Panel Bulucu\bin\Debug\Rs4 Admin Panel Bulucu.pdb
+C:\Users\burak\source\repos\Rs4 Admin Panel Bulucu\Rs4 Admin Panel Bulucu\obj\Debug\Rs4 Admin Panel Bulucu.exe
+C:\Users\burak\source\repos\Rs4 Admin Panel Bulucu\Rs4 Admin Panel Bulucu\obj\Debug\Rs4 Admin Panel Bulucu.pdb
+C:\Users\burak\OneDrive\Masaüstü\Rs4 Admin Panel Bulucu\Rs4 Admin Panel Bulucu\bin\Debug\Rs4 Admin Panel Bulucu.exe.config
+C:\Users\burak\OneDrive\Masaüstü\Rs4 Admin Panel Bulucu\Rs4 Admin Panel Bulucu\bin\Debug\Rs4 Admin Panel Bulucu.exe
+C:\Users\burak\OneDrive\Masaüstü\Rs4 Admin Panel Bulucu\Rs4 Admin Panel Bulucu\bin\Debug\Rs4 Admin Panel Bulucu.pdb
+C:\Users\burak\OneDrive\Masaüstü\Rs4 Admin Panel Bulucu\Rs4 Admin Panel Bulucu\obj\Debug\Rs4 Admin Panel Bulucu.csproj.AssemblyReference.cache
+C:\Users\burak\OneDrive\Masaüstü\Rs4 Admin Panel Bulucu\Rs4 Admin Panel Bulucu\obj\Debug\Rs4 Admin Panel Bulucu.csproj.SuggestedBindingRedirects.cache
+C:\Users\burak\OneDrive\Masaüstü\Rs4 Admin Panel Bulucu\Rs4 Admin Panel Bulucu\obj\Debug\Rs4_Admin_Panel_Bulucu.Form.resources
+C:\Users\burak\OneDrive\Masaüstü\Rs4 Admin Panel Bulucu\Rs4 Admin Panel Bulucu\obj\Debug\Rs4_Admin_Panel_Bulucu.Properties.Resources.resources
+C:\Users\burak\OneDrive\Masaüstü\Rs4 Admin Panel Bulucu\Rs4 Admin Panel Bulucu\obj\Debug\Rs4 Admin Panel Bulucu.csproj.GenerateResource.cache
+C:\Users\burak\OneDrive\Masaüstü\Rs4 Admin Panel Bulucu\Rs4 Admin Panel Bulucu\obj\Debug\Rs4 Admin Panel Bulucu.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\Rs4 Admin Panel Bulucu\Rs4 Admin Panel Bulucu\obj\Debug\Rs4 Admin Panel Bulucu.exe
+C:\Users\burak\OneDrive\Masaüstü\Rs4 Admin Panel Bulucu\Rs4 Admin Panel Bulucu\obj\Debug\Rs4 Admin Panel Bulucu.pdb
